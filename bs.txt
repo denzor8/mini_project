@@ -1,0 +1,9 @@
+browser-sync start --server --files "css/*.css, *.html, js/*.js"
+ls(list) выводит список содержимого в папке (включая файлы и папки 
+cd (change directory) -переход между папками 
+cd ../ переход на одну папку назад 
+ctrl + l очистить терминал 
+pwd (path word directory) - абсолютный путь к папке в которой вы находитесь 
+ls -a показать содержимые файлы (включая скрыые файлы )
+rm -rf .git удалить git 
+@import url(https://fonts.googleapis.com/css?family=Heebo:100,200,300,regular,500,600,700,800,900);

@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "username": "Tom",
+      "age": 34,
+      "password": "pass123",
+      "isAdmin": true,
+      "id": 1
+    },
+    {
+      "username": "asvlkn",
+      "age": "28",
+      "password": "pass123",
+      "id": 2
+    },
+    {
+      "username": "Hosse",
+      "age": "24",
+      "password": "pass123",
+      "id": 3
+    }
+  ],
+  "products": []
+}
