@@ -1,24 +1,21 @@
 {
   "users": [
     {
-      "username": "Tom",
-      "age": 34,
-      "password": "pass123",
+      "username": "vlad",
+      "age": "22",
+      "password": "123456",
       "isAdmin": true,
-      "id": 1
-    },
-    {
-      "username": "asvlkn",
-      "age": "28",
-      "password": "pass123",
-      "id": 2
-    },
-    {
-      "username": "Hosse",
-      "age": "24",
-      "password": "pass123",
-      "id": 3
+      "id": 4
     }
   ],
-  "products": []
+  "products": [
+    {
+      "title": "slvn",
+      "price": "asv",
+      "desc": ";sknv",
+      "image": "sd;knv",
+      "category": "ds;vm",
+      "id": 1
+    }
+  ]
 }
